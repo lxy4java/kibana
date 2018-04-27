@@ -9,4 +9,4 @@ image::images/multiple_requests.png[多请求]
 
 控制台会依次提交请求到 Elasticsearch ，并将 Elasticsearch 返回的结果显示在右边窗口。这在调试问题或在多个场景中尝试查询组合时会非常方便。
 
-选择多个请求还允许您自动格式化并将其复制为 cURL 。
+选择多个请求还允许您自动格式化并将其复制为 cURL 命令。
